@@ -1,0 +1,2 @@
+1 errorC:\Users\Badrul\Documents\NetBeansProjects\ProjectDownload\STIW3054-A171\237768\
+Error: Could not find or load main class assignment1.Asg1_237768
