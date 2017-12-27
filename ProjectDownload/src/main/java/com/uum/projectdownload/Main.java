@@ -26,6 +26,9 @@ public class Main {
          Find find=new Find();
          find.CountKeyword(list);
          find.FindLine(list);
+         PDF out = new PDF();
+         out.pdf();
+         out.pdf2();
     
 }  
     
